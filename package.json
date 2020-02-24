@@ -1,0 +1,28 @@
+{
+  "name": "tynerbot",
+  "version": "0.1.0",
+  "description": "pocket bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orin220444/tynerbot.git"
+  },
+  "author": "orin220444",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orin220444/tynerbot/issues"
+  },
+  "homepage": "https://github.com/orin220444/tynerbot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.36.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.2"
+  }
+}
