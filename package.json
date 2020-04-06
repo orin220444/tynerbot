@@ -20,14 +20,16 @@
   },
   "homepage": "https://github.com/orin220444/tynerbot#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "dotenv": "^8.2.0",
+    "pocket-api": "^0.2.3",
     "telegraf": "^3.36.0"
   },
   "devDependencies": {
+    "acorn": ">=7.1.1",
     "eslint": "^6.8.0",
     "eslint-config-google": "^0.14.0",
-    "nodemon": "^2.0.2",
-    "acorn": ">=7.1.1",
-    "minimist": ">=1.2.2"
+    "minimist": "^1.2.5",
+    "nodemon": "^2.0.2"
   }
 }
